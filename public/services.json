@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "service1",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    },
+    {
+        "id": 2,
+        "name": "service2",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    },
+    {
+        "id": 3,
+        "name": "service3",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    },
+    {
+        "id": 4,
+        "name": "service4",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    },
+    {
+        "id": 5,
+        "name": "service5",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    },
+    {
+        "id": 6,
+        "name": "service6",
+        "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ut iste fugit excepturi nihil exercitationem, ipsum tempora nemo reprehenderit, iure, molestias illo! Dolorem magni labore corrupti perspiciatis. Laborum, odio quae.",
+        "price": 200,
+        "img": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19603.jpg?w=740&t=st=1649661684~exp=1649662284~hmac=83a5fb623c1828878e7bddbe65860a520b53830efc08bde0c6b88f9b3fbded2f"
+    }
+]
